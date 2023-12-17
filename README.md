@@ -1,4 +1,4 @@
 # first-project-demo
 This is my first Git Repository
 <br>
-Author - Ashish Vaghasiya
+Author - Ashish (Patel)
